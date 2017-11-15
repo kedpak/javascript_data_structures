@@ -10,4 +10,6 @@ This repo will contain data structures in Javascript
 * Hash Tables
 * Binary Trees
 
-I want to try all data structures learned in C in JS!
+A data structure is a particular way of organizing and storing data in a computer so that it can be accessed and modified efficiently.
+
+This is a repo where I will be practicing the implementation of datastructures through the Javascript programming language. 
